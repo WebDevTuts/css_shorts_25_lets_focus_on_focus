@@ -67,7 +67,8 @@ form input[type="radio"] {
 }
 
 form input:focus,
-textarea:focus {
+textarea:focus,
+form input[type="submit"]:hover {
   border-color: #f29f27;
   background-color: #404015;
 }
