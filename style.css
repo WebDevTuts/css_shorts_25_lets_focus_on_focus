@@ -52,6 +52,7 @@ form textarea {
 	font-size: .9em;
   background-color: rgba(255,255,255,.2);
   outline: none;
+  border: 1px solid rgba(0, 0, 0, 0);
 }
 
 form input[type="submit"] {
